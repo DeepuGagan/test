@@ -1,0 +1,30 @@
+h1{
+  text-align: center;
+  /* text-decoration: underline; */
+}
+.abc{
+  display: inline-block;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.abc img{
+  display: block;
+}
+
+
+
+
+
+
+
+
+
+/* No need to touch anything in this file:
+li {
+    background-color:  #B10DC9;
+  }
+  
+  .highlight {
+    background-color: #7FDBFF;
+  } */
